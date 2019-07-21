@@ -1,0 +1,13 @@
+#title{
+    background-color:deepskyblue;
+    color:white;
+    width:20%;
+    height:838px;
+    float: left;
+    text-align: center;
+}
+#content{
+    width:76%;
+    height:838px;
+    float:right;
+}
